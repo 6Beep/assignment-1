@@ -62,6 +62,8 @@ To obtain these skills, I will first have to get a master’s in computer scienc
 
 ### Personality test
 
+![Brigs-Mysers Personality test](assignment1pic4.PNG)
+
 The results from the tests were interesting. Being a more introverted logical person is an accurate description of me, although it is hard for me to discern that myself since I can’t be objective. The famous people will similar personalities was also interesting. But in saying that, the Brigs-Myers personality test is quite limiting in that it only divides people into 16 groups. So while some points were accurate, such as me being logical and somewhat introverted, I will not be basing my career and life choices on it. 
 
 The learning style test was also interesting, and the results do match with my experience, I do feel like I learn better visually. The results from the last test were what I expected them too roughly be. 
