@@ -42,8 +42,8 @@ I expect to learn a lot surrounding the different areas of IT, what they imply, 
 Link listed above!
 
 
-The description for this job is broad, however, the way I interpreted it is that you will work in a team on 
-developing and researching AI. 
+The description for this job is broad, however, the way I interpreted it is that 
+you will work in a team on developing and researching AI. 
 What makes this appealing to me is my interest in AI, 
 the different ways in which to program it, how it works, 
 why some learning methods work better for different tasks than others, the ethics involved as so on. 
