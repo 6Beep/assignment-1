@@ -36,17 +36,24 @@ The reason I chose to apply for this RMIT course is because of two main points. 
 
 I expect to learn a lot surrounding the different areas of IT, what they imply, what further research into the field will entail, goals within these different areas, working in groups, ethical questions ext. I am also interested to see if my interest in IT as whole will broaden after this course or if I will still be mainly interested in programming after this course is compete. The ethics aspect is also something I am hoping to learn more about as I think it is an interesting subject to discuss as even people not to involved in IT will still be able to grasp a lot of the core concepts. 
 
-### Ideal Job
+### [Ideal Job - Indeed](https://www.indeed.com/q-Artificial-Intelligence-Programmer-jobs.html?vjk=3e82daa8cbdb475a)
 
 ```markdown
-[Ideal Job Indeed](https://www.indeed.com/q-Artificial-Intelligence-Programmer-jobs.html?vjk=3e82daa8cbdb475a)
+Link listed above!
 
-The description for this job is broad, however, the way I interpreted it is that you will work in a team on developing and researching AI. 
-What makes this appealing to me is my interest in AI, the different ways in which to program it, how it works, why some learning methods work better for different tasks than others, the ethics involved as so on. 
-This position also seems to allow for one to be at the forefront of AI, which I find very appealing. Also, since the actual description is so vague, I think that the projects allow for some creative freedom for the people involved. 
+
+The description for this job is broad, however, the way I interpreted it is that you will work in a team on 
+developing and researching AI. 
+What makes this appealing to me is my interest in AI, 
+the different ways in which to program it, how it works, 
+why some learning methods work better for different tasks than others, the ethics involved as so on. 
+This position also seems to allow for one to be at the forefront of AI, 
+which I find very appealing. Also, since the actual description is so vague, 
+I think that the projects allow for some creative freedom for the people involved. 
 
 
 ```
+
 The skills required for this position seem to be a few years of experience in the field as well as at least a master’s in computer science. You would also need knowledge with different frameworks as well as have the skills to be able to work well in groups, lastly since it is asking for someone able to live and work in the U.S one needs to be able to use English to a high degree (probably fluently). 
 
 The skills I have related to this position is that I am fluent in English and have no problem working in groups. Other than that, I have a large interest in programming and have completed a few programming courses in C at a university level. 
